@@ -1,0 +1,4 @@
+[COLOR gold][B]ButacaVip - Estado del Sistema[/B][/COLOR]
+
+[COLOR white]Bienvenido a ButacaVip.[/COLOR]
+[COLOR limegreen]Sistema funcionando correctamente.[/COLOR]

@@ -1,0 +1,74 @@
+REPORTE DE SERVIDORES - BUTACAVIP
+========================================
+[S/D] amazon.py -> Sin dominio detectado
+[S/D] bayfiles.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] bdupload.py -> bdupload.info
+[S/D] blogger.py -> Sin dominio detectado
+[S/D] burstcloud.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] clicknupload.py -> addon.xml
+[CAIDO/PROTEGIDO] cloudvideo.py -> addon.xml
+[S/D] crunchyroll.py -> Sin dominio detectado
+[S/D] directo.py -> Sin dominio detectado
+[ONLINE] doodstream.py -> doodstream.com
+[S/D] dropbox.py -> Sin dominio detectado
+[S/D] embedy.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] evoload.py -> zplayer.json
+[CAIDO/PROTEGIDO] fastplay.py -> addon.xml
+[S/D] fastream.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] gamovideo.py -> addon.xml
+[ONLINE] gloria.py -> gloria.tv
+[CAIDO/PROTEGIDO] gofile.py -> addon.xml
+[S/D] highload.py -> Sin dominio detectado
+[S/D] hls.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] jplayer.py -> jplayer.club
+[S/D] jwp.py -> Sin dominio detectado
+[S/D] jwplayer.py -> Sin dominio detectado
+[S/D] kinoger.py -> Sin dominio detectado
+[S/D] ktp.py -> Sin dominio detectado
+[S/D] m3u8hls.py -> Sin dominio detectado
+[S/D] mediafire.py -> Sin dominio detectado
+[S/D] mega.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] megaup.py -> addon.xml
+[S/D] mp4upload.py -> Sin dominio detectado
+[S/D] myvi.py -> Sin dominio detectado
+[S/D] pixeldrain.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] playtube.py -> addon.xml
+[CAIDO/PROTEGIDO] racaty.py -> addon.xml
+[S/D] sendvid.py -> Sin dominio detectado
+[S/D] stream2.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] streamhide.py -> zplayer.json
+[CAIDO/PROTEGIDO] streamlare.py -> addon.xml
+[ONLINE] streams3.py -> streams3.com
+[CAIDO/PROTEGIDO] streamtape.py -> addon.xml
+[S/D] streamty.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] streamz.py -> streamz.json
+[S/D] supervideo.py -> Sin dominio detectado
+[S/D] tiwi.py -> Sin dominio detectado
+[S/D] torrent.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] uptobox.py -> addon.xml
+[S/D] upvid.py -> Sin dominio detectado
+[S/D] uqload.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] userscloud.py -> addon.xml
+[CAIDO/PROTEGIDO] various.py -> addon.xml
+[CAIDO/PROTEGIDO] videobin.py -> zplayer.json
+[S/D] vidfast.py -> Sin dominio detectado
+[S/D] vidhd.py -> Sin dominio detectado
+[ONLINE] vidload.py -> vidload.net
+[CAIDO/PROTEGIDO] vidmoly.py -> addon.xml
+[S/D] vidup.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] vimeo.py -> addon.xml
+[S/D] vivo.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] vk.py -> addon.xml
+[CAIDO/PROTEGIDO] voe.py -> addon.xml
+[S/D] vsmobi.py -> Sin dominio detectado
+[S/D] vup.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] waaw.py -> addon.xml
+[CAIDO/PROTEGIDO] wolfstream.py -> wolfstream.json
+[S/D] yourupload.py -> Sin dominio detectado
+[ONLINE] youtube.py -> youtube.com
+[S/D] youwatch.py -> Sin dominio detectado
+[S/D] zembed.py -> Sin dominio detectado
+[CAIDO/PROTEGIDO] zplayer.py -> zplayer.json
+[CAIDO/PROTEGIDO] zures.py -> addon.xml
+
+RESUMEN: Online/Activos: 5 | Caidos/Inaccesibles: 27

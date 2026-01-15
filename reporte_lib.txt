@@ -1,0 +1,25 @@
+REPORTE DE LIBRERÍAS (LIB) - BUTACAVIP
+========================================
+ARCHIVO -> aadecode.py
+ARCHIVO -> balandroresolver.py
+ARCHIVO -> balandroresolver2.py
+CARPETA -> br
+CARPETA -> Cryptodome
+ARCHIVO -> decrypters.py
+CARPETA -> gdrivetools
+ARCHIVO -> hunterdecode.py
+CARPETA -> js2py
+ARCHIVO -> jsinterpreter.py
+ARCHIVO -> jsunpack.py
+ARCHIVO -> jsunwise.py
+CARPETA -> m3u8server
+CARPETA -> megaserver
+CARPETA -> megaserver2
+ARCHIVO -> pyberishaes.py
+CARPETA -> pyjsparser
+CARPETA -> rJs
+CARPETA -> sambatools
+ARCHIVO -> serverhls.py
+ARCHIVO -> serverkt.py
+ARCHIVO -> six.py
+CARPETA -> __pycache__
